@@ -1,37 +1,13 @@
 {
   "users": [
-    {
-      "id": "0",
-      "username": "sambit",
-      "email": "sambit@gmail.com",
-      "password": "123456",
-      "isAdmin": true,
-      "imageUrl": "",
-      "image": "https://res.cloudinary.com/dufzofg3k/image/upload/v1761933655/ts5h4seapcl9bfiyuuck.png"
-    },
+    
     {
       "id": "ykzeI0P9CmzgVfkqbE9kg",
       "username": "de",
       "email": "",
       "password": ""
     },
-    {
-      "id": "-TKbgvGxM-JanxD2uJL22",
-      "username": "debo",
-      "email": "debo@gmail.com",
-      "password": "123456"
-    },
-    {
-      "id": "4HYLgUEz3Zvi_InFDAgT7",
-      "username": "sambit ghosh",
-      "email": "sambitg31@gmail.com",
-      "password": "123456",
-      "isAdmin": false,
-      "image": "https://res.cloudinary.com/dufzofg3k/image/upload/v1761857951/elxo9kzgaaodjkcwqo1j.png",
-      "name": "",
-      "imageUrl": "",
-      "cart": []
-    }
+   
   ],
   "products": [{
     "id": 1,
